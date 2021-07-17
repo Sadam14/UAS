@@ -6,5 +6,8 @@ fungsi file cek_login untuk mengecek database sudah terhubung atau belum
 fungsi file input.php untuk menginputkan data
 fungsi file dftr.php untuk pendaftaran peserta vaksinasi
 berikut hosting yang telah saya buat https://vaksin19.000webhostapp.com/
+untuk menjalankan aplikasi harus mengakses halaman admin
+username admin" sadam "
+password " sadam1234 "
 
 mohon maaf pak untuk pembuatan aplikasinya belum selsay
